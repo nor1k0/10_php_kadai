@@ -1,0 +1,93 @@
+.excel{
+    height: 75px;
+    width: 80%;
+    background-color:rgb(33, 115, 70);
+    color: white;
+}
+
+br{
+  height: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  .item1 {
+    border: 1px solid grey;
+    padding: 3px 10px;
+    background: #ddd;
+    text-align: center;
+    width: 50px;
+  }
+  .item2 {
+    border: 1px solid grey;
+    padding: 3px 10px;
+    background: #ddd;
+    width: 100px;
+  }
+  .value1 {
+    border: 1px solid grey;
+    padding: 3px 10px;
+    cursor: pointer;
+  }
+
+.cell{
+  border:none;
+  outline:none;
+}
+
+.icon{
+  width: 18px;
+  margin: 3px;
+}
+
+.icon_l{
+  margin-bottom: 5px;
+}
+
+.icon_r{
+  float: right;
+  width: 18px;
+  margin-top: 2px;
+}
+
+.icon_r1{
+  float: right;
+  margin-right: 5px;
+}
+
+.icon_r2{
+  float: right;
+  width: 110px;
+  margin: 3px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+p{
+  margin-bottom: 2px;
+}
+
+.scroll_all{
+  position: sticky;
+  float: right;
+  text-align: center;
+}
+
+button{
+  margin-top: 5px;
+}
+
+.chart_title{
+  text-align: center;
+}
+
+.userplus{
+  margin-top: 10px;
+}
+
+.validation{
+  color: red;
+}
